@@ -33682,7 +33682,7 @@ o=t.VS
 o=e?A.a([new A.tv(30,m),$.aJj()],o):A.a([new A.tv(30,m),new A.x5(A.ch("[a-zA-Z]",!0,!1),!0,"")],o)
 n=$.bH()
 n=n.gcp(n).gen()
-if(l.a.b<640){l=$.bH().a
+if(l.a.b<800){l=$.bH().a
 l===$&&A.b()
 l=20*l
 l=new A.al(0,l,0,l)}else{l=$.bH().a
@@ -106248,9 +106248,9 @@ j=A.Hf(A.eJ(A.a([k,A.cD(A.f7(A.a([A.bX("Payment Information :",g,g,g,h.gcp(h).gC
 i=$.bH().a
 i===$&&A.b()
 i=A.hW(5*i)
-k=A.bl(a,g,l).w.a.a<600?60:90
-h=A.bl(a,g,l).w.a.a<600?30:40
-l=A.bl(a,g,l).w.a.a<600?8:12
+k=A.bl(a,g,l).w.a.a<800?60:90
+h=A.bl(a,g,l).w.a.a<800?25:40
+l=A.bl(a,g,l).w.a.a<800?6:12
 i=A.Oo(g,g,B.aMM,g,g,g,g,g,g,g,new A.ca(new A.J(k,h),t.VY),g,g,new A.ca(new A.al(0,l,0,l),t.Lz),g,new A.ca(new A.dc(i,B.a1),t.fj),g,g,g,g,g,g)
 l=$.bH()
 return A.Hf(A.f7(A.a([new A.c_(new A.al(0,e,0,0),p,g),new A.c_(new A.al(0,10*f,0,0),n,g),q,j,A.zh(A.bX("Add Item",g,g,g,l.gcp(l).gen().qq(B.K,B.by),B.cg,g),new A.agn(m),i),$.aFa(),new A.nC(new A.ago(m,a),g),$.aJS(),m.aBm(),$.aJS(),m.a4r(a)],o),B.du,B.ax),g,new A.al(e,e,e,e),B.bo)},
